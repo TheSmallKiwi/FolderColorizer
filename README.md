@@ -20,7 +20,7 @@ A Unity Editor tool that automatically assigns rainbow colors to folders in the 
 
 1. Open **Window > Package Manager**
 2. Click **+** > **Add package from git URL**
-3. Enter: `https://github.com/YOUR_USERNAME/FolderColorizer.git`
+3. Enter: `https://github.com/TheSmallKiwi/FolderColorizer.git`
 
 ### Manual Installation
 
