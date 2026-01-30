@@ -5,6 +5,8 @@ A Unity Editor tool that automatically assigns rainbow colors to folders in the 
 ![Unity](https://img.shields.io/badge/Unity-2021.3%2B-black)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Folder Colorizer Screenshot](Images/FolderColorizer.png)
+
 ## Features
 
 - **Automatic Rainbow Colors** - Folders receive unique colors based on their path
