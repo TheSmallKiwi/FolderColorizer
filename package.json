@@ -1,0 +1,18 @@
+{
+  "name": "com.devonmcarthur.foldercolorizer",
+  "version": "1.0.0",
+  "displayName": "Folder Colorizer",
+  "description": "Automatically assigns rainbow colors to folders in the Unity Project window for better visual organization.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Devon McArthur"
+  },
+  "keywords": [
+    "editor",
+    "folder",
+    "color",
+    "organization",
+    "project-window"
+  ],
+  "type": "tool"
+}
